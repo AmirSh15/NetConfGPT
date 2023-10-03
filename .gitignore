@@ -1,0 +1,9 @@
+# files
+*.pyc
+
+# folders
+tmp/
+results/
+cm-data-model_subset_23_5/
+examples/
+NETConfGPT_xmls/
